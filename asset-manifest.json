@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Project-Expenses/static/css/main.9c91a201.css",
+    "main.js": "/Project-Expenses/static/js/main.aac2250d.js",
+    "index.html": "/Project-Expenses/index.html",
+    "main.9c91a201.css.map": "/Project-Expenses/static/css/main.9c91a201.css.map",
+    "main.aac2250d.js.map": "/Project-Expenses/static/js/main.aac2250d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c91a201.css",
+    "static/js/main.aac2250d.js"
+  ]
+}
